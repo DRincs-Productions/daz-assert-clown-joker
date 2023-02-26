@@ -1,7 +1,7 @@
-[![Git Anti Virus Scan](https://github.com/DRincs-Productions/******/actions/workflows/antivirus.yml/badge.svg)](https://github.com/DRincs-Productions/*********/actions/workflows/antivirus.yml)
+[![Git Anti Virus Scan](https://github.com/DRincs-Productions/daz-assert-clown-joker/actions/workflows/antivirus.yml/badge.svg)](https://github.com/DRincs-Productions/daz-assert-clown-joker/actions/workflows/antivirus.yml)
 
 ## How to work
-Before you start creating a scene check the [wiki](https://github.com/DRincs-Productions/***********/wiki) to see if there is an element best suited for you.
+Before you start creating a scene check the [wiki](https://github.com/DRincs-Productions/daz-assert-clown-joker/wiki) to see if there is an element best suited for you.
 
 
 ## Request new material
